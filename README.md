@@ -14,6 +14,8 @@
 
 我参与项目的文档维护、Issue 反馈与 PR 贡献。
 
+**新媒体矩阵 · 微信公众号：果子学生信、洲更的第二大脑**
+
 **[Wisp Science wolai 文档主要维护者](https://www.wolai.com/fUUMG9SHad3D8ugM4FMoy3)**  
 Primary maintainer of the Wisp Science documentation on wolai.
 
