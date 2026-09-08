@@ -10,7 +10,9 @@
 
 ## Wisp Science · Documentation & community
 
-[**Wisp Science**](https://github.com/xuzhougeng/wisp-science) 由 **[徐洲更（Zhougeng Xu）](https://xuzhougeng.top/)** 开发。我参与项目的文档维护、Issue 反馈与 PR 贡献。
+[**Wisp Science**](https://github.com/xuzhougeng/wisp-science) 由 **[徐洲更（Zhougeng Xu）](https://xuzhougeng.top/)** 开发，获得 **重庆医科大学附属第一医院[郭世鹏教授](https://github.com/Shipeng-Guo)** 的支持，**[余光创教授](https://github.com/guangchuangyu)** 提供专业的论文指导意见。
+
+我参与项目的文档维护、Issue 反馈与 PR 贡献。
 
 **[Wisp Science wolai 文档主要维护者](https://www.wolai.com/fUUMG9SHad3D8ugM4FMoy3)**  
 Primary maintainer of the Wisp Science documentation on wolai.
