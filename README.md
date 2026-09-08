@@ -24,6 +24,25 @@ I explore the intersection of biological questions, computational analysis, and 
 | Tumor immunology | Omics analysis | AI-assisted literature reading |
 | Biological mechanisms | Pathway interpretation | Reusable scientific workflows |
 
+## Selected publications
+
+**2026 · Advanced Science**  
+[LMO7 Suppresses Tumor-Associated Macrophage Phagocytosis of Tumor Cells Through Degradation of LRP1](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3xfQGl0AAAAJ&citation_for_view=3xfQGl0AAAAJ:W7OEmFMy1HYC)  
+M. Li, T. Wang, Y. Zhong, et al. · Co-author  
+Macrophage phagocytosis · Tumor microenvironment · LRP1
+
+**2025 · Human Vaccines & Immunotherapeutics**  
+[Research hotspots and frontier analysis of the novel immune checkpoint Nectin-4](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3xfQGl0AAAAJ&citation_for_view=3xfQGl0AAAAJ:Tyk-4Ss8FVUC)  
+**Y. Qiao**, W. Zhao, Y. Gou, et al.  
+Immune checkpoints · Nectin-4 · Bibliometric analysis
+
+**2024 · Acta Pharmacologica Sinica**  
+[Recombinant human adenovirus type 5 promotes anti-tumor immunity via inducing pyroptosis in tumor endothelial cells](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3xfQGl0AAAAJ&citation_for_view=3xfQGl0AAAAJ:qjMakFHDy7sC)  
+Z. Wang, M. Li, Q. Yang, et al. · Co-author  
+Anti-tumor immunity · Tumor endothelium · Pyroptosis
+
+[**Explore all publications on Google Scholar →**](https://scholar.google.com/citations?user=3xfQGl0AAAAJ&hl=en)
+
 ## Selected public projects
 
 | Project | What you'll find |
