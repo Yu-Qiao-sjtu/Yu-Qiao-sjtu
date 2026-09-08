@@ -8,6 +8,16 @@
   <a href="https://github.com/Yu-Qiao-sjtu?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Open_Source-7C83FD?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Public repositories" /></a>
 </p>
 
+## GitHub activity
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yu-Qiao-sjtu&amp;theme=tokyonight" width="100%" alt="GitHub public activity overview" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yu-Qiao-sjtu&amp;theme=tokyonight" width="49%" alt="Public repositories by language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yu-Qiao-sjtu&amp;theme=tokyonight" width="49%" alt="GitHub statistics" />
+</p>
+
 ## Hi, I'm Yu Qiao
 
 
@@ -51,15 +61,5 @@ Anti-tumor immunity · Tumor endothelium · Pyroptosis
 | [**biofree.qyKEGGtools**](https://github.com/Yu-Qiao-sjtu/biofree.qyKEGGtools) | R tools for working with KEGG. |
 | [**Pro. Paper**](https://github.com/Yu-Qiao-sjtu/Pro.-Paper) | AI-assisted paper reading and structured research reports. |
 | [**Yuanclaw**](https://github.com/Yu-Qiao-sjtu/Yuanclaw) | Modular analysis for bulk RNA-seq, microarray and pseudobulk data. |
-
-## GitHub activity
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yu-Qiao-sjtu&amp;theme=tokyonight" width="100%" alt="GitHub public activity overview" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yu-Qiao-sjtu&amp;theme=tokyonight" width="49%" alt="Public repositories by language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yu-Qiao-sjtu&amp;theme=tokyonight" width="49%" alt="GitHub statistics" />
-</p>
 
 <p align="center"><sub>Curious about biology. Thoughtful about evidence. Always building.</sub></p>
