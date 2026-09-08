@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-labelledby="title desc">
 <title id="title">Yu Qiao — Science, Code, Discovery</title>
-<desc id="desc">Tumor Immunology, Bioinformatics and Scientific AI. Shanghai Jiao Tong University.</desc>
+<desc id="desc">Cancer, inflammatory respiratory diseases, macrophages and neutrophils, bioinformatics and AI4Drug. Shanghai Jiao Tong University.</desc>
 <defs>
 <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#050917"/><stop offset=".6" stop-color="#10182e"/><stop offset="1" stop-color="#21173d"/></linearGradient>
 <linearGradient id="neon"><stop stop-color="#4fffe0"/><stop offset=".5" stop-color="#6fbcff"/><stop offset="1" stop-color="#bb83ff"/></linearGradient>
@@ -49,7 +49,7 @@
 <text x="55" y="161" fill="#77aaff" opacity=".17" font-family="Segoe UI,Arial,sans-serif" font-size="88" font-weight="750">YU QIAO</text>
 <text x="55" y="157" fill="#f3f7ff" font-family="Segoe UI,Arial,sans-serif" font-size="88" font-weight="750" letter-spacing="1">YU QIAO</text>
 <rect x="60" y="183" width="80" height="3" rx="1.5" fill="url(#neon)"/>
-<text x="60" y="225" font-family="Segoe UI,Arial,sans-serif" font-size="23" fill="#c5d6fa">Tumor Immunology · Bioinformatics · Scientific AI</text>
+<text x="60" y="225" font-family="Segoe UI,Arial,sans-serif" font-size="23" fill="#c5d6fa">Cancer &amp; Inflammation · Bioinformatics · AI4Drug</text>
 <text x="60" y="261" font-family="Segoe UI,Arial,sans-serif" font-size="17" fill="#91a7c9">Shanghai Jiao Tong University</text>
 <rect x="60" y="301" width="440" height="39" rx="8" fill="#65ffe0" fill-opacity=".05" stroke="#65ffe0" stroke-opacity=".3"/>
 <circle cx="79" cy="320" r="3" fill="#77f7df"/>

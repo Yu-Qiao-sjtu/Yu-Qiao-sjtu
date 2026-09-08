@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header-neon-v2.svg" width="100%" alt="Yu Qiao — Tumor Immunology, Bioinformatics and Scientific AI" />
+  <img src="./assets/header-neon-v2.svg" width="100%" alt="Yu Qiao — Cancer, Inflammation, Bioinformatics and AI4Drug" />
 </p>
 
 <p align="center">
@@ -41,7 +41,7 @@ Primary maintainer of the Wisp Science documentation on wolai.
 
 ## Biology × Omics × Scientific AI
 
-**我是乔宇，来自上海交通大学，研究方向为肿瘤免疫与生物信息学。**<br>
+**我是乔宇，来自上海交通大学，关注肿瘤、呼吸系统炎症性疾病与巨噬细胞、中性粒细胞，以及生物信息学与 AI4Drug。**<br>
 连接肿瘤生物学实验、组学数据分析与科研 AI 应用。
 
 My work connects **experimental biology, transcriptomics, and AI-assisted research** — from biological questions to interpretable evidence and reusable workflows.
@@ -199,7 +199,8 @@ Siyuan Chen, **Yu Qiao**, Juan Chen, et al.<br>
 
 **上海交通大学 / Shanghai Jiao Tong University**<br>
 博士二年级在读 · Second-year Ph.D. student<br>
-研究方向：肿瘤免疫与生物信息学 · Tumor Immunology & Bioinformatics
+研究方向：肿瘤、呼吸系统炎症性疾病与巨噬细胞、中性粒细胞；生物信息学、AI4Drug。<br>
+Research interests: Cancer; inflammatory respiratory diseases; macrophages and neutrophils; bioinformatics; AI4Drug.
 
 **硕士 · 蚌埠医科大学 · 2022–2025**<br>
 学位：科研型肿瘤学硕士学位<br>
