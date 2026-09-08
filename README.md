@@ -65,6 +65,13 @@ I explore the intersection of biological questions, computational analysis, and 
 
 [**ORCID · 0000-0001-5945-4734 →**](https://orcid.org/0000-0001-5945-4734)
 
+## Academic service & honors · 学术服务与荣誉
+
+| 年份 | 学术服务 / 荣誉 | 补充信息 |
+| :--- | :--- | :--- |
+| 2025 | **Life Conflux 期刊编委** | Editorial Board Member |
+| 2024 | **Wiley China Excellent Author Program** | April–June 2024；通讯单位：上海交通大学闵行校区 |
+
 ## Research & building
 
 | Biology | Computation | Research tools |
