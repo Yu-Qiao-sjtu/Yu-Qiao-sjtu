@@ -48,13 +48,15 @@ Primary maintainer of the Wisp Science documentation on wolai.
 
 **5 个上游 PR · 全部已合并 · 2 个版本发布说明明确署名**
 
-| Contribution | Merged PR |
+我的 PR 贡献覆盖 **实验数据接入、技能检索、模型选择、工作流易用性与运行环境感知设计**，把科研使用中遇到的问题转化为具体功能改进和设计方案。
+
+| 已合并 PR | 中文简述与实际价值 |
 | :--- | :--- |
-| Local DNA import and sequence-selection integration | [#965](https://github.com/xuzhougeng/wisp-science/pull/965) |
-| Multilingual skill-search recall | [#959](https://github.com/xuzhougeng/wisp-science/pull/959) |
-| Runtime-Aware Agent Context design proposal | [#795](https://github.com/xuzhougeng/wisp-science/pull/795) |
-| Model search and skill-to-workflow model binding | [#721](https://github.com/xuzhougeng/wisp-science/pull/721) |
-| Workflow budget and schema hints | [#720](https://github.com/xuzhougeng/wisp-science/pull/720) |
+| [**#965 · DNA 文件导入与序列交互**](https://github.com/xuzhougeng/wisp-science/pull/965) | 支持本地 SnapGene、FASTA、GenBank 等文件导入，保留环状结构与注释；将选中片段的序列、坐标、链方向和长度传给聊天助手，衔接质粒查看与 AI 分析。 |
+| [**#959 · 中英文技能搜索改进**](https://github.com/xuzhougeng/wisp-science/pull/959) | 改善连续中文、不同分隔符和跨语言查询下的技能检索，减少“技能已启用却找不到”的问题。 |
+| [**#795 · 运行环境感知设计提案**](https://github.com/xuzhougeng/wisp-science/pull/795) | 提出让 Agent 感知已加载数据对象、查询科学计算库接口、了解长任务进度的设计，为减少重复操作与接口猜测提供方案。此项为已合并的设计文档。 |
+| [**#721 · 模型发现与工作流绑定**](https://github.com/xuzhougeng/wisp-science/pull/721) | 增加模型搜索工具和工作流模型绑定参数，让 Agent 能按任务所需能力查找并选择模型，例如为图片理解任务选择支持视觉的模型。 |
+| [**#720 · 工作流预算与输出说明**](https://github.com/xuzhougeng/wisp-science/pull/720) | 补充中英文预算提示、输入占位说明和输出格式说明，让用户理解留空预算的含义，更清楚地配置工作流。 |
 
 发布说明中的贡献署名：**[v1.7.0 · Trace & Trust](https://github.com/xuzhougeng/wisp-science/releases/tag/v1.7.0)**（#959、#965）和 **[v1.2.0 · Exploration](https://github.com/xuzhougeng/wisp-science/releases/tag/v1.2.0)**（#795）。
 
