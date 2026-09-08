@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Yu Qiao — Tumor Immunology, Bioinformatics and Scientific AI">
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#080e21"/><stop offset="1" stop-color="#172340"/></linearGradient>
+ <linearGradient id="accent"><stop stop-color="#50efca"/><stop offset="1" stop-color="#9c8bff"/></linearGradient>
+ <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#839bbd" stroke-opacity=".09"/></pattern>
+</defs>
+<rect width="1200" height="360" rx="24" fill="url(#bg)"/>
+<rect width="1200" height="360" rx="24" fill="url(#grid)"/>
+<path d="M0 358H1200" stroke="url(#accent)" stroke-width="4"/>
+<g fill="none" stroke="url(#accent)" stroke-width="2" opacity=".65">
+ <path d="M870 48C1120 80 840 130 1090 170S830 270 1090 314"/>
+ <path d="M1090 48C840 80 1120 130 870 170S1130 270 870 314"/>
+ <path d="M906 61H1054M943 91H1017M893 126H1067M900 158H1060M913 192H1047M944 224H1016M892 263H1068M918 295H1042"/>
+</g>
+<g fill="#65e7d0"><circle cx="906" cy="61" r="4"/><circle cx="1067" cy="126" r="4"/><circle cx="913" cy="192" r="4"/><circle cx="1042" cy="295" r="4"/></g>
+<text x="62" y="67" font-family="monospace" font-size="14" fill="#61e8ce" letter-spacing="3">SCIENCE / CODE / DISCOVERY</text>
+<text x="58" y="152" font-family="Segoe UI,Arial,sans-serif" font-size="70" font-weight="700" fill="#f1f6ff">YU QIAO</text>
+<text x="62" y="197" font-family="Segoe UI,Arial,sans-serif" font-size="23" fill="#b9c8e4">Tumor Immunology · Bioinformatics · Scientific AI</text>
+<text x="62" y="239" font-family="Segoe UI,Arial,sans-serif" font-size="17" fill="#889fbe">Ph.D. Candidate / Shanghai Jiao Tong University</text>
+<rect x="62" y="274" width="372" height="34" rx="17" fill="#122f39" stroke="#37696a"/>
+<text x="81" y="296" font-family="monospace" font-size="13" fill="#77f0d7">From biological questions to reproducible code.</text>
+</svg>

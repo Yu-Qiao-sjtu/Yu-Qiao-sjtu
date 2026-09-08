@@ -1,0 +1,46 @@
+<p align="center">
+  <img src="./assets/header.svg" width="100%" alt="Yu Qiao — Tumor Immunology, Bioinformatics and Scientific AI" />
+</p>
+
+<p align="center">
+  <a href="https://scholar.google.com/citations?user=3xfQGl0AAAAJ&amp;hl=zh-CN"><img src="https://img.shields.io/badge/Google_Scholar-Research-4285F4?style=flat-square&amp;logo=googlescholar&amp;logoColor=white" alt="Google Scholar" /></a>
+  <a href="https://space.bilibili.com/295548473"><img src="https://img.shields.io/badge/Bilibili-Connect-00A1D6?style=flat-square&amp;logo=bilibili&amp;logoColor=white" alt="Bilibili" /></a>
+  <a href="https://github.com/Yu-Qiao-sjtu?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Open_Source-7C83FD?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Public repositories" /></a>
+</p>
+
+## Hi, I'm Yu Qiao
+
+Ph.D. candidate in **Tumor Immunology and Bioinformatics** at **Shanghai Jiao Tong University**.
+
+I explore the intersection of biological questions, computational analysis, and AI-assisted research. Here I share tools for working with omics data, understanding papers, and making scientific workflows easier to reproduce.
+
+**肿瘤免疫 × 生物信息学 × 科研 AI**  
+从生物学问题出发，用代码连接数据、证据与发现。
+
+## Research & building
+
+| Biology | Computation | Research tools |
+| :--- | :--- | :--- |
+| Tumor immunology | Omics analysis | AI-assisted literature reading |
+| Biological mechanisms | Pathway interpretation | Reusable scientific workflows |
+
+## Selected public projects
+
+| Project | What you'll find |
+| :--- | :--- |
+| [**Wisp_skills**](https://github.com/Yu-Qiao-sjtu/Wisp_skills) | A collection of skills for scientific AI workflows. |
+| [**biofree.qyKEGGtools**](https://github.com/Yu-Qiao-sjtu/biofree.qyKEGGtools) | R tools for working with KEGG. |
+| [**Pro. Paper**](https://github.com/Yu-Qiao-sjtu/Pro.-Paper) | AI-assisted paper reading and structured research reports. |
+| [**Yuanclaw**](https://github.com/Yu-Qiao-sjtu/Yuanclaw) | Modular analysis for bulk RNA-seq, microarray and pseudobulk data. |
+
+## GitHub activity
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yu-Qiao-sjtu&amp;theme=tokyonight" width="100%" alt="GitHub public activity overview" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yu-Qiao-sjtu&amp;theme=tokyonight" width="49%" alt="Public repositories by language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yu-Qiao-sjtu&amp;theme=tokyonight" width="49%" alt="GitHub statistics" />
+</p>
+
+<p align="center"><sub>Curious about biology. Thoughtful about evidence. Always building.</sub></p>
