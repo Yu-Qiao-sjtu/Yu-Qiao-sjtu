@@ -200,6 +200,14 @@ Siyuan Chen, **Yu Qiao**, Juan Chen, et al.<br>
 **上海交通大学 / Shanghai Jiao Tong University**<br>
 研究方向：肿瘤免疫与生物信息学 · Tumor Immunology & Bioinformatics
 
+**硕士 · 蚌埠医科大学 · 2022–2025**<br>
+学位：科研型肿瘤学硕士学位<br>
+研究方向：消化道肿瘤、肿瘤病毒与肿瘤免疫
+
+**本科 · 济宁医学院 · 2016–2021**<br>
+专业：五年制临床医学专业<br>
+辅修方向：儿科学方向
+
 [**ORCID · 0000-0001-5945-4734 →**](https://orcid.org/0000-0001-5945-4734)
 
 ## Academic service & honors · 学术服务与荣誉
