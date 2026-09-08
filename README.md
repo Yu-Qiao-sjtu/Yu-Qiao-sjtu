@@ -4,6 +4,7 @@
 
 <p align="center">
   <a href="https://scholar.google.com/citations?user=3xfQGl0AAAAJ&amp;hl=zh-CN"><img src="https://img.shields.io/badge/Google_Scholar-Research-4285F4?style=flat-square&amp;logo=googlescholar&amp;logoColor=white" alt="Google Scholar" /></a>
+  <a href="https://orcid.org/0000-0001-5945-4734"><img src="https://img.shields.io/badge/ORCID-0000--0001--5945--4734-A6CE39?style=flat-square&amp;logo=orcid&amp;logoColor=white" alt="ORCID: 0000-0001-5945-4734" /></a>
   <a href="https://space.bilibili.com/295548473"><img src="https://img.shields.io/badge/Bilibili-Connect-00A1D6?style=flat-square&amp;logo=bilibili&amp;logoColor=white" alt="Bilibili" /></a>
   <a href="https://github.com/Yu-Qiao-sjtu?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Open_Source-7C83FD?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Public repositories" /></a>
 </p>
@@ -56,6 +57,13 @@ I explore the intersection of biological questions, computational analysis, and 
 
 **肿瘤免疫 × 生物信息学 × 科研 AI**  
 从生物学问题出发，用代码连接数据、证据与发现。
+
+## Education · 教育背景
+
+博士在读 · Ph.D. candidate  
+研究方向：肿瘤免疫与生物信息学 · Tumor Immunology & Bioinformatics  
+
+[**ORCID · 0000-0001-5945-4734 →**](https://orcid.org/0000-0001-5945-4734)
 
 ## Research & building
 
