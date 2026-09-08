@@ -76,7 +76,9 @@ I explore the intersection of biological questions, computational analysis, and 
 
 基于已提供的 **15 篇中英文论文标题（2019–2026）**，包括会议摘要和读者来信。
 
-![中英文论文标题关键词词云](./assets/research-wordcloud.png)
+[![中英文论文标题关键词词云：点击打开交互版](./assets/research-wordcloud.png)](https://yu-qiao-sjtu.github.io/Yu-Qiao-sjtu/)
+
+[**打开交互式词云：点击关键词查看对应论文 →**](https://yu-qiao-sjtu.github.io/Yu-Qiao-sjtu/)
 
 ![研究主题的年度分布与演化](./assets/research-evolution.png)
 
