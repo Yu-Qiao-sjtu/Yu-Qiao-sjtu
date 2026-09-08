@@ -13,6 +13,11 @@
 
 [**Wisp Science**](https://github.com/xuzhougeng/wisp-science) 由 **[徐洲更（Zhougeng Xu）](https://xuzhougeng.top/)** 开发，获得 **重庆医科大学附属第一医院[郭世朋教授](https://github.com/Shipeng-Guo)** 的支持，**[余光创教授](https://github.com/guangchuangyu)** 提供专业的论文指导意见。
 
+**余光创教授**：南方医科大学教授、博士生导师；他及团队开发 **clusterProfiler、ggtree、ChIPseeker** 等生物信息学工具。
+
+<details>
+<summary><strong>学术指导详情｜余光创教授的代表工具与方法论文</strong></summary>
+
 **学术指导 · 余光创教授（Guangchuang Yu）**
 
 余光创教授是**南方医科大学教授、博士生导师**，长期从事生物信息学方法与开源工具开发，研究覆盖组学数据解释、系统发育与科学可视化。[学校介绍](https://www.smu.edu.cn/info/1251/20909.htm)
@@ -20,6 +25,8 @@
 他及其团队开发的代表性工具包括 **clusterProfiler**（功能富集与组学解释）、**ggtree / treeio**（系统发育树可视化与数据整合）、**ChIPseeker**（ChIP-seq 峰注释）和 **enrichplot**（富集结果可视化）。这些工具为研究者从基因列表、调控区域和进化关系中提取生物学意义提供了可复用的方法。[YuLab 开源工具](https://github.com/YuLab-SMU) · [个人软件主页](https://guangchuangyu.github.io/software/)
 
 代表方法论文包括 *The Innovation* 的 [clusterProfiler 4.0（2021）](https://pmc.ncbi.nlm.nih.gov/articles/PMC8454663/) 和 *Nature Protocols* 的 [Using clusterProfiler to characterize multiomics data（2024）](https://www.nature.com/articles/s41596-024-01020-z)。
+
+</details>
 
 <p>
   <img src="https://img.shields.io/badge/MY_CONTRIBUTIONS-文档维护%20%C2%B7%20Issue%20反馈%20%C2%B7%20PR%20贡献-FFD54F?style=for-the-badge&amp;labelColor=3D3200" alt="我的贡献：文档维护、Issue 反馈与 PR 贡献" />
@@ -50,6 +57,9 @@ Primary maintainer of the Wisp Science documentation on wolai.
 
 我的 PR 贡献覆盖 **实验数据接入、技能检索、模型选择、工作流易用性与运行环境感知设计**，把科研使用中遇到的问题转化为具体功能改进和设计方案。
 
+<details>
+<summary><strong>展开 5 个 PR 的中文贡献说明与 2 个版本署名</strong></summary>
+
 | 已合并 PR | 中文简述与实际价值 |
 | :--- | :--- |
 | [**#965 · DNA 文件导入与序列交互**](https://github.com/xuzhougeng/wisp-science/pull/965) | 支持本地 SnapGene、FASTA、GenBank 等文件导入，保留环状结构与注释；将选中片段的序列、坐标、链方向和长度传给聊天助手，衔接质粒查看与 AI 分析。 |
@@ -62,11 +72,18 @@ Primary maintainer of the Wisp Science documentation on wolai.
 
 <sub>统计截至 2026-09-09，仅计 xuzhougeng/wisp-science 上游仓库；版本数按 GitHub Release 正文明确出现 @Yu-Qiao-sjtu 的不同版本去重，不代表代码仅用于这些版本。</sub>
 
+</details>
+
 [**阅读 wolai 文档 →**](https://www.wolai.com/fUUMG9SHad3D8ugM4FMoy3) · [**Wisp Science 项目 →**](https://github.com/xuzhougeng/wisp-science) · [**我的 Issues →**](https://github.com/xuzhougeng/wisp-science/issues?q=is%3Aissue%20author%3AYu-Qiao-sjtu)
 
 ## Research opportunity · 张海波博士课题组招生
 
 **生物信息学 × 呼吸系统疾病｜上海交通大学药学院｜硕士 / 博士**
+
+**斯坦福大学博士后 · 上海交通大学药学院博士、硕士 · 山东大学本科**
+
+<details>
+<summary><strong>展开学术经历</strong></summary>
 
 **学术经历**
 
@@ -77,7 +94,14 @@ Primary maintainer of the Wisp Science documentation on wolai.
 | 硕士 | 上海交通大学药学院 |
 | 本科 | 山东大学 |
 
+</details>
+
 欢迎对呼吸系统疾病、免疫机制与生物信息学交叉研究有兴趣的同学关注张海波博士课题组，交流硕士、博士报考意向。
+
+**上海市优秀毕业生 · 博士研究生国家奖学金**。交大[优秀毕业生专题](https://mp.weixin.qq.com/s/wBcWf_ehG8bry3WuQdz6lA)记录其科研成长：博士期间 **11 篇 SCI、第一及共同第一作者 7 篇**（2023 年报道统计）。
+
+<details>
+<summary><strong>展开优秀毕业生报道｜博士期间 11 篇 SCI，第一及共同第一作者 7 篇</strong></summary>
 
 ### 优秀毕业生报道 · 从交大，启航
 
@@ -85,10 +109,19 @@ Primary maintainer of the Wisp Science documentation on wolai.
 
 报道介绍了她作为 **2023 届药理学博士毕业生** 的科研与成长经历，并记录了 **2023 年上海市优秀毕业生、2019–2020 年博士研究生国家奖学金**等荣誉。按该报道发布时的统计，她在博士期间参与发表 **11 篇 SCI 论文，其中第一作者及共同第一作者论文 7 篇**。
 
+</details>
+
 ### Featured in Science · 2026 年第一作者代表作
 
 **[Mucosal vaccination in mice provides protection from diverse respiratory threats](https://doi.org/10.1126/science.aea1260)**<br>
 **张海波博士为第一作者** · Science, 2026 · DOI: 10.1126/science.aea1260
+
+**核心发现：鼻内免疫在小鼠中提供至少三个月的多种呼吸道威胁保护，连接记忆 T 细胞与肺泡巨噬细胞。**
+
+[**Stanford Medicine 专题报道**](https://med.stanford.edu/news/all-news/2026/02/universal-vaccine.html)介绍其第一作者贡献；[**牛津大学等专家评论**](https://www.sciencemediacentre.org/expert-reaction-to-study-in-mice-on-a-vaccine-for-various-pathogens/)肯定广谱保护思路与机制研究，并关注进一步的人体验证。
+
+<details>
+<summary><strong>展开 Science 研究机制、Stanford 报道与专家评价</strong></summary>
 
 **一个核心问题：能否让肺部免疫系统对多种呼吸道威胁形成持久保护？**
 
@@ -104,6 +137,15 @@ Primary maintainer of the Wisp Science documentation on wolai.
 
 <sub>以上为新闻报道与专家评论的中文概述，原文见链接。研究成果基于小鼠模型。</sub>
 
+</details>
+
+**其他代表成果：Nature Communications（2024）第一作者；合作论文发表于 Nature Microbiology、Journal of Experimental Medicine、Cell Host & Microbe。**
+
+**研究脉络：**近五年（2022–2026）聚焦肺部免疫调控、巨噬细胞与宿主–病原体互作；近三年（2024–2026）进一步拓展至肺纤维化、多组学疫苗应答与广谱黏膜保护。
+
+<details>
+<summary><strong>展开代表论文与近三年、近五年研究脉络</strong></summary>
+
 ### 更多科研成果 · 肺部免疫与疾病机制
 
 张海波博士也是 **Nature Communications（2024）** 哮喘加重研究的第一作者，研究 CUL5 如何调节肺泡巨噬细胞抗病毒免疫与中性粒细胞炎症。[论文](https://doi.org/10.1038/s41467-023-44168-0)
@@ -118,6 +160,8 @@ Primary maintainer of the Wisp Science documentation on wolai.
 | **近五年 · 2022–2026** | 以肺部免疫调控为主线，连接 E3 泛素连接酶、巨噬细胞功能、过敏性炎症及宿主–病原体互作；逐步拓展至组织重塑与系统免疫学。 |
 
 生物信息学与上述问题的结合点包括：转录组发现候选调控因子、多组学解析免疫应答，以及将数据中的信号与疾病模型中的机制验证相连接。
+
+</details>
 
 [**查看 Google Scholar 论文列表 →**](https://scholar.google.com/citations?hl=en&user=THSReNEAAAAJ&view_op=list_works&sortby=pubdate) · [**阅读研究方向与代表成果 →**](./research/haibo-zhang.md)
 
