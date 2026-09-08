@@ -1,0 +1,86 @@
+{
+  "checked_at": "2026-09-09",
+  "target_jif_year": 2025,
+  "columns": [
+    "journal",
+    "jif",
+    "year_status",
+    "quartile_status",
+    "paper_topic",
+    "source"
+  ],
+  "rows": [
+    [
+      "Advanced Science",
+      "14.1",
+      "官网当前值；年度待核实",
+      "待核实",
+      "LMO7 / LRP1",
+      "https://onlinelibrary.wiley.com/journal/21983844"
+    ],
+    [
+      "Human Vaccines & Immunotherapeutics",
+      "4.2",
+      "2025 JIF",
+      "Q2（最高学科分区）",
+      "Nectin-4",
+      "https://www.tandfonline.com/journals/khvi20/about-this-journal"
+    ],
+    [
+      "Acta Pharmacologica Sinica",
+      "10.4",
+      "2025 JIF",
+      "Q1：Pharmacology & Pharmacy；Chemistry, Multidisciplinary",
+      "腺病毒 / 内皮细胞焦亡",
+      "https://www.chinaphar.com/"
+    ],
+    [
+      "Asian Journal of Surgery",
+      "3.8",
+      "官网展示值；最新年度待核实",
+      "待核实",
+      "静脉麻醉（Letter）",
+      "https://www.sciencedirect.com/journal/asian-journal-of-surgery"
+    ],
+    [
+      "Aging Medicine",
+      "3.1",
+      "官网当前值；年度待核实",
+      "待核实",
+      "PND",
+      "https://onlinelibrary.wiley.com/journal/24750360"
+    ],
+    [
+      "Journal of Clinical Oncology",
+      "44.7",
+      "官网页面年度存在歧义；待核实",
+      "前 25%（官网 Oncology 排名 7/333；年度待核实）",
+      "PD-1 回顾性研究（Meeting Abstract；文章链接待核实）",
+      "https://ascopubs.org/jco/about"
+    ],
+    [
+      "Frontiers in Psychiatry",
+      "3.8",
+      "2025 JIF",
+      "Q2（出版社 JIF 分区）",
+      "性格、精神特征与肺癌",
+      "https://www.frontiersin.org/about/impact"
+    ],
+    [
+      "Frontiers in Oncology",
+      "3.4",
+      "2025 JIF",
+      "Q2（出版社 JIF 分区）",
+      "NSCLC 高影响力文献",
+      "https://www.frontiersin.org/about/impact"
+    ],
+    [
+      "Phytotherapy Research",
+      "8.1",
+      "官网当前值；年度待核实",
+      "待核实",
+      "Dehydrocostus Lactone / PTK7",
+      "https://onlinelibrary.wiley.com/journal/10991573"
+    ]
+  ]
+}

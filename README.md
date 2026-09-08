@@ -90,6 +90,27 @@ I explore the intersection of biological questions, computational analysis, and 
 
 Author lists below are abbreviated; **Yu Qiao** is highlighted. Conference abstracts and letters are identified separately.
 
+<details>
+<summary>Journal metrics · 最新影响因子与 JCR 分区核查</summary>
+
+核查日期：2026-09-09。目标为 2026 年发布的 **2025 JIF** 与对应 JCR 分区。以下严格区分已确认年度与官网未明确年度的展示值；“待核实”不等于无影响因子。JIF 是期刊指标，不是单篇文章的引用数或质量评分；JCR 分区不等同于中科院分区、CiteScore 或 SJR 分区。
+
+| 期刊 / 官方来源 | JIF | 指标年度 | JCR 分区 / 核实状态 | 对应论文主题 |
+| :--- | :--- | :--- | :--- | :--- |
+| [Advanced Science](https://onlinelibrary.wiley.com/journal/21983844) | 14.1 | 官网当前值；年度待核实 | 待核实 | LMO7 / LRP1 |
+| [Human Vaccines & Immunotherapeutics](https://www.tandfonline.com/journals/khvi20/about-this-journal) | 4.2 | 2025 JIF | Q2（最高学科分区） | Nectin-4 |
+| [Acta Pharmacologica Sinica](https://www.chinaphar.com/) | 10.4 | 2025 JIF | Q1：Pharmacology & Pharmacy；Chemistry, Multidisciplinary | 腺病毒 / 内皮细胞焦亡 |
+| [Asian Journal of Surgery](https://www.sciencedirect.com/journal/asian-journal-of-surgery) | 3.8 | 官网展示值；最新年度待核实 | 待核实 | 静脉麻醉（Letter） |
+| [Aging Medicine](https://onlinelibrary.wiley.com/journal/24750360) | 3.1 | 官网当前值；年度待核实 | 待核实 | PND |
+| [Journal of Clinical Oncology](https://ascopubs.org/jco/about) | 44.7 | 官网页面年度存在歧义；待核实 | 前 25%（官网 Oncology 排名 7/333；年度待核实） | PD-1 回顾性研究（Meeting Abstract；文章链接待核实） |
+| [Frontiers in Psychiatry](https://www.frontiersin.org/about/impact) | 3.8 | 2025 JIF | Q2（出版社 JIF 分区） | 性格、精神特征与肺癌 |
+| [Frontiers in Oncology](https://www.frontiersin.org/about/impact) | 3.4 | 2025 JIF | Q2（出版社 JIF 分区） | NSCLC 高影响力文献 |
+| [Phytotherapy Research](https://onlinelibrary.wiley.com/journal/10991573) | 8.1 | 官网当前值；年度待核实 | 待核实 | Dehydrocostus Lactone / PTK7 |
+
+[逐项来源、年度冲突与待核实说明](./research/journal-metrics-2026.md)
+
+</details>
+
 ### 2026
 
 **LMO7 Suppresses Tumor-Associated Macrophage Phagocytosis of Tumor Cells Through Degradation of LRP1**  

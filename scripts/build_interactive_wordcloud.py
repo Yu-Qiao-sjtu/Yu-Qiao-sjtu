@@ -59,6 +59,10 @@ document.querySelectorAll('[data-word]').forEach(el=>{
 terms.addEventListener('change',()=>{if(terms.value)choose(terms.value)});
 </script></html>'''
 page=page.replace('WORDS',''.join(words)).replace('DATA',json.dumps(data["papers"],ensure_ascii=False).replace('</','<\\/'))
+metrics=json.loads((root/"research/journal-metrics.json").read_text(encoding="utf-8"))
+metric_rows="".join("<tr>"+"".join("<td>"+html.escape(str(v))+"</td>" for v in row[:4])+"<td><a href=\""+html.escape(row[5],quote=True)+"\">官方来源</a></td></tr>" for row in metrics["rows"])
+metric_section='<section><h2>期刊影响因子与 JCR 分区</h2><p>核查于 2026-09-09，目标为 2025 JIF（2026 年发布）。未明确年度的官网展示值单独标注；JIF 为期刊指标。</p><div style="overflow-x:auto"><table><thead><tr><th>期刊</th><th>JIF</th><th>年度</th><th>分区 / 核实状态</th><th>来源</th></tr></thead><tbody>'+metric_rows+'</tbody></table></div><p><a href="https://github.com/Yu-Qiao-sjtu/Yu-Qiao-sjtu/blob/main/research/journal-metrics-2026.md">完整核实说明与论文对应关系</a></p></section>'
+page=page.replace('<footer>',metric_section+'<footer>').replace('</style>','td,th{padding:10px;text-align:left;border-bottom:1px solid #435779}table{width:100%;border-collapse:collapse}</style>')
 (root/"docs").mkdir(exist_ok=True)
 (root/"docs/index.html").write_text(page,encoding="utf-8")
 assert all(p.get("url","").startswith("https://") for p in data["papers"])
