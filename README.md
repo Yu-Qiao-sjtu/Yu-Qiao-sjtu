@@ -41,12 +41,14 @@ Primary maintainer of the Wisp Science documentation on wolai.
 
 ## Biology × Omics × Scientific AI
 
+**我是乔宇，来自上海交通大学，研究方向为肿瘤免疫与生物信息学。**<br>
 连接肿瘤生物学实验、组学数据分析与科研 AI 应用。
 
 My work connects **experimental biology, transcriptomics, and AI-assisted research** — from biological questions to interpretable evidence and reusable workflows.
 
 我关注肿瘤免疫与生物学机制，也参与科研工具的文档维护、使用反馈和功能贡献。实验提供观察，组学帮助组织证据，科研 AI 帮助衔接文献、数据与分析过程。
 
+[论文与引用](https://scholar.google.com/citations?user=3xfQGl0AAAAJ&hl=en) · [我维护的 Wisp Science 文档](https://www.wolai.com/fUUMG9SHad3D8ugM4FMoy3)
 
 ![Research interfaces: experimental biology, omics and scientific AI](./assets/research-interfaces.svg)
 
@@ -130,6 +132,7 @@ Mengkai Li, Tao Wang, Yuwen Zhong, et al., **Yu Qiao**, et al.<br>
 ### 2025
 
 **Research hotspots and frontier analysis of the novel immune checkpoint Nectin-4**<br>
+**Yu Qiao**, Wanyu Zhao, Yusen Gou, et al.<br>
 *Human Vaccines & Immunotherapeutics*, 21(1), 2504776. **Published**. [DOI](https://doi.org/10.1080/21645515.2025.2504776)
 
 **Trends, frontiers, and clinical trials of TIM-3 in cancer research: a bibliometric analysis**<br>
@@ -139,6 +142,7 @@ Zishu Wang, **Yu Qiao**.<br>
 ### 2024
 
 **Recombinant human adenovirus type 5 promotes anti-tumor immunity via inducing pyroptosis in tumor endothelial cells**<br>
+Zhiming Wang, Mengkai Li, Qingling Yang, et al., **Yu Qiao**, et al.<br>
 *Acta Pharmacologica Sinica*, 45, 2646–2656. [Publication](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3xfQGl0AAAAJ&citation_for_view=3xfQGl0AAAAJ:qjMakFHDy7sC)
 
 **Global research and scientific publications on intravenous anesthesia between 1930 and 2022: A bibliometric analysis**<br>
@@ -193,8 +197,8 @@ Siyuan Chen, **Yu Qiao**, Juan Chen, et al.<br>
 
 ## Education · 教育背景
 
-博士在读 · Ph.D. candidate<br>
-研究方向：肿瘤免疫与生物信息学 · Tumor Immunology & Bioinformatics<br>
+**上海交通大学 / Shanghai Jiao Tong University**<br>
+研究方向：肿瘤免疫与生物信息学 · Tumor Immunology & Bioinformatics
 
 [**ORCID · 0000-0001-5945-4734 →**](https://orcid.org/0000-0001-5945-4734)
 
