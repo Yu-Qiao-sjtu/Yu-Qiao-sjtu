@@ -64,22 +64,51 @@ I explore the intersection of biological questions, computational analysis, and 
 | Tumor immunology | Omics analysis | AI-assisted literature reading |
 | Biological mechanisms | Pathway interpretation | Reusable scientific workflows |
 
-## Selected publications
+## Publications · 近期论文
 
-**2026 · Advanced Science**  
-[LMO7 Suppresses Tumor-Associated Macrophage Phagocytosis of Tumor Cells Through Degradation of LRP1](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3xfQGl0AAAAJ&citation_for_view=3xfQGl0AAAAJ:W7OEmFMy1HYC)  
-M. Li, T. Wang, Y. Zhong, et al. · Co-author  
-Macrophage phagocytosis · Tumor microenvironment · LRP1
+Author lists below are abbreviated; **Yu Qiao** is highlighted. Conference abstracts and letters are identified separately.
 
-**2025 · Human Vaccines & Immunotherapeutics**  
-[Research hotspots and frontier analysis of the novel immune checkpoint Nectin-4](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3xfQGl0AAAAJ&citation_for_view=3xfQGl0AAAAJ:Tyk-4Ss8FVUC)  
-**Y. Qiao**, W. Zhao, Y. Gou, et al.  
-Immune checkpoints · Nectin-4 · Bibliometric analysis
+### 2026
 
-**2024 · Acta Pharmacologica Sinica**  
-[Recombinant human adenovirus type 5 promotes anti-tumor immunity via inducing pyroptosis in tumor endothelial cells](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3xfQGl0AAAAJ&citation_for_view=3xfQGl0AAAAJ:qjMakFHDy7sC)  
-Z. Wang, M. Li, Q. Yang, et al. · Co-author  
-Anti-tumor immunity · Tumor endothelium · Pyroptosis
+**LMO7 Suppresses Tumor-Associated Macrophage Phagocytosis of Tumor Cells Through Degradation of LRP1**  
+Mengkai Li, Tao Wang, Yuwen Zhong, et al., **Yu Qiao**, et al.  
+*Advanced Science*. [Publication](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3xfQGl0AAAAJ&citation_for_view=3xfQGl0AAAAJ:W7OEmFMy1HYC)
+
+### 2025
+
+**Research hotspots and frontier analysis of the novel immune checkpoint Nectin-4**  
+*Human Vaccines & Immunotherapeutics*, 21(1), 2504776. **Published**. [DOI](https://doi.org/10.1080/21645515.2025.2504776)
+
+**Trends, frontiers, and clinical trials of TIM-3 in cancer research: a bibliometric analysis**  
+Zishu Wang, **Yu Qiao**.  
+*Journal of Bengbu Medical University*, 50, 22–28. [Publication](https://xuebao.bbmu.edu.cn/cn/article/pdf/preview/10.13898/j.cnki.issn.2097-5252.2025.01.004.pdf)
+
+### 2024
+
+**Recombinant human adenovirus type 5 promotes anti-tumor immunity via inducing pyroptosis in tumor endothelial cells**  
+*Acta Pharmacologica Sinica*, 45, 2646–2656. [Publication](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3xfQGl0AAAAJ&citation_for_view=3xfQGl0AAAAJ:qjMakFHDy7sC)
+
+**Global research and scientific publications on intravenous anesthesia between 1930 and 2022: A bibliometric analysis**  
+Duan Gao, Ruoxuan Liu, **Yu Qiao**, Ning Yang.  
+*Asian Journal of Surgery*, 47(10), 4651–4653. **Letter to the Editor**. [Publication](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3xfQGl0AAAAJ&citation_for_view=3xfQGl0AAAAJ:d1gkVwhDpl0C)
+
+**Global research and scientific publications on PND between 1969 and 2022: A bibliometric analysis**  
+Ruoxuan Liu, Duan Gao, Ning Yang, **Yu Qiao**, Zihang Zhang, Mingzhang Zuo.  
+*Aging Medicine*, 7(3), 368–383. [Full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC11222752/)
+
+**Comparative efficacy of six programmed cell death protein-1 inhibitors in first-line treatment for advanced non-small cell lung cancer: A retrospective cohort study**  
+Siyuan Chen, Yuhui Qin, Zhijuan Du, **Yu Qiao**, Yi Hu, Zhefeng Liu.  
+*Journal of Clinical Oncology*. **Meeting Abstract**.
+
+**Causal effects between personality and psychiatric traits and lung cancer: a bidirectional two-sample Mendelian randomization and bibliometric study**  
+Siyuan Chen, Zhijuan Du, Yuhui Qin, et al., **Yu Qiao**, et al.  
+*Frontiers in Psychiatry*, 15, 1338481. [Publication](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3xfQGl0AAAAJ&citation_for_view=3xfQGl0AAAAJ:u5HHmVD_uO8C)
+
+### 2022
+
+**Evolutions in the management of non-small cell lung cancer: A bibliometric study from the 100 most impactful articles in the field**  
+Siyuan Chen, **Yu Qiao**, Juan Chen, et al.  
+*Frontiers in Oncology*, 12, 939838. [Publication](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3xfQGl0AAAAJ&citation_for_view=3xfQGl0AAAAJ:2osOgNQ5qMEC)
 
 [**Explore all publications on Google Scholar →**](https://scholar.google.com/citations?user=3xfQGl0AAAAJ&hl=en)
 
