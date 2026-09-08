@@ -39,6 +39,31 @@ Primary maintainer of the Wisp Science documentation on wolai.
 
 [**阅读 wolai 文档 →**](https://www.wolai.com/fUUMG9SHad3D8ugM4FMoy3) · [**Wisp Science 项目 →**](https://github.com/xuzhougeng/wisp-science) · [**我的 Issues →**](https://github.com/xuzhougeng/wisp-science/issues?q=is%3Aissue%20author%3AYu-Qiao-sjtu)
 
+## Research opportunity · 张海波博士课题组招生
+
+**生物信息学 × 呼吸系统疾病｜上海交通大学药学院｜硕士 / 博士**
+
+欢迎对呼吸系统疾病、免疫机制与生物信息学交叉研究有兴趣的同学关注张海波博士课题组，交流硕士、博士报考意向。
+
+### 科研成果 · 从肺部免疫机制到黏膜保护
+
+张海波博士（Haibo Zhang）以第一作者在 **Science（2026）** 发表黏膜疫苗研究：在小鼠中建立针对多种呼吸道感染及过敏原的广泛保护，并揭示记忆 T 细胞与肺泡巨噬细胞协同作用。她也是 **Nature Communications（2024）** 哮喘加重研究的第一作者，研究 CUL5 如何调节肺泡巨噬细胞抗病毒免疫与中性粒细胞炎症。[Science 论文](https://doi.org/10.1126/science.aea1260) · [Nature Communications 论文](https://doi.org/10.1038/s41467-023-44168-0)
+
+合作成果还涵盖 **Nature Microbiology** 的细菌性肺炎机制、**Journal of Experimental Medicine** 的过敏性哮喘机制，以及 **Cell Host & Microbe** 的微生物组与疫苗应答研究。[代表论文与来源 →](./research/haibo-zhang.md)
+
+### 研究方向的演化
+
+| 时间范围 | 基于发表论文归纳的研究主线 |
+| :--- | :--- |
+| **近三年 · 2024–2026** | 从病毒诱发哮喘加重中的肺泡巨噬细胞抗病毒免疫，延伸至肺纤维化、微生物组与疫苗应答，以及肺部黏膜免疫的广泛保护。 |
+| **近五年 · 2022–2026** | 以肺部免疫调控为主线，连接 E3 泛素连接酶、巨噬细胞功能、过敏性炎症及宿主–病原体互作；逐步拓展至组织重塑与系统免疫学。 |
+
+生物信息学与上述问题的结合点包括：转录组发现候选调控因子、多组学解析免疫应答，以及将数据中的信号与疾病模型中的机制验证相连接。这些方法见于相关团队论文，不代表每项分析均由她个人独立完成。
+
+[**查看 Google Scholar 论文列表 →**](https://scholar.google.com/citations?hl=en&user=THSReNEAAAAJ&view_op=list_works&sortby=pubdate) · [**阅读研究方向与代表成果 →**](./research/haibo-zhang.md)
+
+<sub>招生信息由主页维护者提供，更新于 2026-09-09；招生单位为上海交通大学药学院，面向硕士、博士。具体招生资格、名额、申请时间与流程以学校和课题组正式通知为准。研究方向按自然年归纳，2026 年截至更新日。</sub>
+
 ## Biology × Omics × Scientific AI
 
 **我是乔宇，来自上海交通大学，关注肿瘤、呼吸系统炎症性疾病与巨噬细胞、中性粒细胞，以及生物信息学与 AI4Drug。**<br>
