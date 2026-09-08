@@ -9,6 +9,36 @@
   <a href="https://github.com/Yu-Qiao-sjtu?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Open_Source-7C83FD?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Public repositories" /></a>
 </p>
 
+## Wisp Science · Documentation & community
+
+[**Wisp Science**](https://github.com/xuzhougeng/wisp-science) 由 **[徐洲更（Zhougeng Xu）](https://xuzhougeng.top/)** 开发，获得 **重庆医科大学附属第一医院[郭世朋教授](https://github.com/Shipeng-Guo)** 的支持，**[余光创教授](https://github.com/guangchuangyu)** 提供专业的论文指导意见。
+
+我参与项目的文档维护、Issue 反馈与 PR 贡献。
+
+**新媒体矩阵 · 微信公众号：果子学生信、洲更的第二大脑**
+
+**[Wisp Science wolai 文档主要维护者](https://www.wolai.com/fUUMG9SHad3D8ugM4FMoy3)**<br>
+Primary maintainer of the Wisp Science documentation on wolai.
+
+**项目 Issue 提交数量排名第一 · 104 个 Issues**<br>
+截至 2026-09-09，按公开仓库创建的 Issue 总数统计，包含已关闭 Issue，不包含 Pull Requests；此为 Issue 提交数量排名。
+
+**5 个上游 PR · 全部已合并 · 2 个版本发布说明明确署名**
+
+| Contribution | Merged PR |
+| :--- | :--- |
+| Local DNA import and sequence-selection integration | [#965](https://github.com/xuzhougeng/wisp-science/pull/965) |
+| Multilingual skill-search recall | [#959](https://github.com/xuzhougeng/wisp-science/pull/959) |
+| Runtime-Aware Agent Context design proposal | [#795](https://github.com/xuzhougeng/wisp-science/pull/795) |
+| Model search and skill-to-workflow model binding | [#721](https://github.com/xuzhougeng/wisp-science/pull/721) |
+| Workflow budget and schema hints | [#720](https://github.com/xuzhougeng/wisp-science/pull/720) |
+
+发布说明中的贡献署名：**[v1.7.0 · Trace & Trust](https://github.com/xuzhougeng/wisp-science/releases/tag/v1.7.0)**（#959、#965）和 **[v1.2.0 · Exploration](https://github.com/xuzhougeng/wisp-science/releases/tag/v1.2.0)**（#795）。
+
+<sub>统计截至 2026-09-09，仅计 xuzhougeng/wisp-science 上游仓库；版本数按 GitHub Release 正文明确出现 @Yu-Qiao-sjtu 的不同版本去重，不代表代码仅用于这些版本。</sub>
+
+[**阅读 wolai 文档 →**](https://www.wolai.com/fUUMG9SHad3D8ugM4FMoy3) · [**Wisp Science 项目 →**](https://github.com/xuzhougeng/wisp-science) · [**我的 Issues →**](https://github.com/xuzhougeng/wisp-science/issues?q=is%3Aissue%20author%3AYu-Qiao-sjtu)
+
 ## Biology × Omics × Scientific AI
 
 连接肿瘤生物学实验、组学数据分析与科研 AI 应用。
@@ -51,36 +81,6 @@ My work connects **experimental biology, transcriptomics, and AI-assisted resear
 可查看的贡献包括：[本地 DNA 导入与序列选择集成 #965](https://github.com/xuzhougeng/wisp-science/pull/965)、[多语言技能搜索 #959](https://github.com/xuzhougeng/wisp-science/pull/959)，以及[工作流预算与 schema 提示 #720](https://github.com/xuzhougeng/wisp-science/pull/720)。
 
 [**阅读使用文档 →**](https://www.wolai.com/fUUMG9SHad3D8ugM4FMoy3) · [科研技能集合](https://github.com/Yu-Qiao-sjtu/Wisp_skills) · [Pro. Paper 文献阅读工具](https://github.com/Yu-Qiao-sjtu/Pro.-Paper)
-
-## Wisp Science · Documentation & community
-
-[**Wisp Science**](https://github.com/xuzhougeng/wisp-science) 由 **[徐洲更（Zhougeng Xu）](https://xuzhougeng.top/)** 开发，获得 **重庆医科大学附属第一医院[郭世朋教授](https://github.com/Shipeng-Guo)** 的支持，**[余光创教授](https://github.com/guangchuangyu)** 提供专业的论文指导意见。
-
-我参与项目的文档维护、Issue 反馈与 PR 贡献。
-
-**新媒体矩阵 · 微信公众号：果子学生信、洲更的第二大脑**
-
-**[Wisp Science wolai 文档主要维护者](https://www.wolai.com/fUUMG9SHad3D8ugM4FMoy3)**<br>
-Primary maintainer of the Wisp Science documentation on wolai.
-
-**项目 Issue 提交数量排名第一 · 104 个 Issues**<br>
-截至 2026-09-09，按公开仓库创建的 Issue 总数统计，包含已关闭 Issue，不包含 Pull Requests；此为 Issue 提交数量排名。
-
-**5 个上游 PR · 全部已合并 · 2 个版本发布说明明确署名**
-
-| Contribution | Merged PR |
-| :--- | :--- |
-| Local DNA import and sequence-selection integration | [#965](https://github.com/xuzhougeng/wisp-science/pull/965) |
-| Multilingual skill-search recall | [#959](https://github.com/xuzhougeng/wisp-science/pull/959) |
-| Runtime-Aware Agent Context design proposal | [#795](https://github.com/xuzhougeng/wisp-science/pull/795) |
-| Model search and skill-to-workflow model binding | [#721](https://github.com/xuzhougeng/wisp-science/pull/721) |
-| Workflow budget and schema hints | [#720](https://github.com/xuzhougeng/wisp-science/pull/720) |
-
-发布说明中的贡献署名：**[v1.7.0 · Trace & Trust](https://github.com/xuzhougeng/wisp-science/releases/tag/v1.7.0)**（#959、#965）和 **[v1.2.0 · Exploration](https://github.com/xuzhougeng/wisp-science/releases/tag/v1.2.0)**（#795）。
-
-<sub>统计截至 2026-09-09，仅计 xuzhougeng/wisp-science 上游仓库；版本数按 GitHub Release 正文明确出现 @Yu-Qiao-sjtu 的不同版本去重，不代表代码仅用于这些版本。</sub>
-
-[**阅读 wolai 文档 →**](https://www.wolai.com/fUUMG9SHad3D8ugM4FMoy3) · [**Wisp Science 项目 →**](https://github.com/xuzhougeng/wisp-science) · [**我的 Issues →**](https://github.com/xuzhougeng/wisp-science/issues?q=is%3Aissue%20author%3AYu-Qiao-sjtu)
 
 ## Research landscape · 研究主题概览
 
