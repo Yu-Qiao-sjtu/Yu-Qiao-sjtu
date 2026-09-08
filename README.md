@@ -10,7 +10,7 @@
 
 ## Hi, I'm Yu Qiao
 
-Ph.D. candidate in **Tumor Immunology and Bioinformatics** at **Shanghai Jiao Tong University**.
+
 
 I explore the intersection of biological questions, computational analysis, and AI-assisted research. Here I share tools for working with omics data, understanding papers, and making scientific workflows easier to reproduce.
 
