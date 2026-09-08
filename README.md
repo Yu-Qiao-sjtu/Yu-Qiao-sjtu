@@ -112,19 +112,9 @@ Siyuan Chen, **Yu Qiao**, Juan Chen, et al.
 
 ### 中文论文 · Chinese-language publications
 
+按 CNKI 被引频次从高到低排序。
+
 被引频次来源：作者于 2026-09-09 提供的 CNKI 截图，为截图数值，非实时更新；不与 Google Scholar 引用数合并。
-
-**基于CiteSpace的戒毒人员戒毒效果心理社会因素热点分析**  
-安瑶，董志焕，于莎莎，张振国，**乔宇**，姚树萌，苑诚明，张雪文。  
-《中国公共卫生管理》，2023-08-20。[Scholar 记录](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=3xfQGl0AAAAJ&citation_for_view=3xfQGl0AAAAJ:WF5omc3nYNoC) · **CNKI 被引：2 次**
-
-**社会医学教学方法及发展趋势探析——基于CiteSpace的文献计量分析**  
-刘志安，高山松，**乔宇**，张雪文，孙雷，孙超凡，刘道兴。  
-《中国公共卫生管理》，2023-06-20。[Scholar 记录](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=3xfQGl0AAAAJ&citation_for_view=3xfQGl0AAAAJ:eQOLeE2rZwMC) · **CNKI 被引：1 次**
-
-**预防脱毒人员复吸的综合干预模式及趋势研究：基于CiteSpace的文献计量分析**  
-张雪文，董志焕，张振国，于莎莎，安瑶，**乔宇**。  
-《中国健康心理学杂志》，2022，30(1)：7–11；CNKI 所列发表日期：2021-12-01。[Scholar 记录](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=3xfQGl0AAAAJ&citation_for_view=3xfQGl0AAAAJ:zYLM7Y9cAGgC) · **CNKI 被引：7 次**
 
 **基本公共卫生服务研究热点及前沿分析**  
 **乔宇**，张雪文，陈思远，卞丽妍，白雪，安瑶，刘延卓，樊呈敏。  
@@ -133,6 +123,18 @@ Siyuan Chen, **Yu Qiao**, Juan Chen, et al.
 **大学生对“互联网+医疗”认知利用及满意度调查与分析**  
 浦锐，**乔宇**，陈思远，白雪，卞丽妍，张成霜，王涛，巩莎，屠宇杰，张雪文。  
 《医学信息学杂志》，2019，40(10)：61–65；发表日期：2019-10-25。[Scholar 记录](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=3xfQGl0AAAAJ&citation_for_view=3xfQGl0AAAAJ:IjCSPb-OGe4C) · **CNKI 被引：8 次**
+
+**预防脱毒人员复吸的综合干预模式及趋势研究：基于CiteSpace的文献计量分析**  
+张雪文，董志焕，张振国，于莎莎，安瑶，**乔宇**。  
+《中国健康心理学杂志》，2022，30(1)：7–11；CNKI 所列发表日期：2021-12-01。[Scholar 记录](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=3xfQGl0AAAAJ&citation_for_view=3xfQGl0AAAAJ:zYLM7Y9cAGgC) · **CNKI 被引：7 次**
+
+**基于CiteSpace的戒毒人员戒毒效果心理社会因素热点分析**  
+安瑶，董志焕，于莎莎，张振国，**乔宇**，姚树萌，苑诚明，张雪文。  
+《中国公共卫生管理》，2023-08-20。[Scholar 记录](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=3xfQGl0AAAAJ&citation_for_view=3xfQGl0AAAAJ:WF5omc3nYNoC) · **CNKI 被引：2 次**
+
+**社会医学教学方法及发展趋势探析——基于CiteSpace的文献计量分析**  
+刘志安，高山松，**乔宇**，张雪文，孙雷，孙超凡，刘道兴。  
+《中国公共卫生管理》，2023-06-20。[Scholar 记录](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=3xfQGl0AAAAJ&citation_for_view=3xfQGl0AAAAJ:eQOLeE2rZwMC) · **CNKI 被引：1 次**
 
 [**Explore all publications on Google Scholar →**](https://scholar.google.com/citations?user=3xfQGl0AAAAJ&hl=en)
 
