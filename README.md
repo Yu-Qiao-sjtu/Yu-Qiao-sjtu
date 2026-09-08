@@ -21,7 +21,11 @@
 
 代表方法论文包括 *The Innovation* 的 [clusterProfiler 4.0（2021）](https://pmc.ncbi.nlm.nih.gov/articles/PMC8454663/) 和 *Nature Protocols* 的 [Using clusterProfiler to characterize multiomics data（2024）](https://www.nature.com/articles/s41596-024-01020-z)。
 
-我参与项目的文档维护、Issue 反馈与 PR 贡献。
+<p>
+  <img src="https://img.shields.io/badge/MY_CONTRIBUTIONS-文档维护%20%C2%B7%20Issue%20反馈%20%C2%B7%20PR%20贡献-FFD54F?style=for-the-badge&amp;labelColor=3D3200" alt="我的贡献：文档维护、Issue 反馈与 PR 贡献" />
+</p>
+
+> **我的贡献｜我参与 Wisp Science 项目的文档维护、Issue 反馈与 PR 贡献。**
 
 **新媒体矩阵 · 微信公众号：果子学生信、洲更的第二大脑**
 
