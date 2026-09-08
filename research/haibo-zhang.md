@@ -21,6 +21,12 @@
 
 Scholar 档案为 Haibo Zhang，标注 Stanford University 并有 stanford.edu 邮箱验证。[Stanford 官方个人页](https://med.stanford.edu/profiles/haibo-zhang) 当前列为 Postdoctoral Scholar。此为公开档案所列身份，不据此推断招生单位，也未将其写成 Stanford 招生。避免与其他同名研究者混淆。
 
+## 优秀毕业生报道 · 从交大，启航
+
+[**《优秀毕业生｜张海波：从交大，启航》**](https://mp.weixin.qq.com/s/wBcWf_ehG8bry3WuQdz6lA) · 上海交通大学药学院公众号 · 2023-07-07
+
+报道介绍了她作为 **2023 届药理学博士毕业生** 的科研与成长经历，并记录了 **2023 年上海市优秀毕业生、2019–2020 年博士研究生国家奖学金**等荣誉。按该报道发布时的统计，她在博士期间参与发表 **11 篇 SCI 论文，其中第一作者及共同第一作者论文 7 篇**。
+
 ## Science 2026 · 重点成果与外部评价
 
 [论文](https://doi.org/10.1126/science.aea1260)由 Haibo Zhang 担任第一作者，研究鼻内黏膜免疫如何通过记忆 T 细胞与肺泡巨噬细胞协同，为小鼠提供至少三个月的多种呼吸道威胁保护。该结果尚不等同于人体通用疫苗获证有效。

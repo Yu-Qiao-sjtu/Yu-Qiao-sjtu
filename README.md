@@ -65,6 +65,12 @@ Primary maintainer of the Wisp Science documentation on wolai.
 
 欢迎对呼吸系统疾病、免疫机制与生物信息学交叉研究有兴趣的同学关注张海波博士课题组，交流硕士、博士报考意向。
 
+### 优秀毕业生报道 · 从交大，启航
+
+[**《优秀毕业生｜张海波：从交大，启航》**](https://mp.weixin.qq.com/s/wBcWf_ehG8bry3WuQdz6lA) · 上海交通大学药学院公众号 · 2023-07-07
+
+报道介绍了她作为 **2023 届药理学博士毕业生** 的科研与成长经历，并记录了 **2023 年上海市优秀毕业生、2019–2020 年博士研究生国家奖学金**等荣誉。按该报道发布时的统计，她在博士期间参与发表 **11 篇 SCI 论文，其中第一作者及共同第一作者论文 7 篇**。
+
 ### Featured in Science · 2026 年第一作者代表作
 
 **[Mucosal vaccination in mice provides protection from diverse respiratory threats](https://doi.org/10.1126/science.aea1260)**<br>
