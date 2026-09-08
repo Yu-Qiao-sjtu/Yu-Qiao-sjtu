@@ -45,9 +45,28 @@ Primary maintainer of the Wisp Science documentation on wolai.
 
 欢迎对呼吸系统疾病、免疫机制与生物信息学交叉研究有兴趣的同学关注张海波博士课题组，交流硕士、博士报考意向。
 
-### 科研成果 · 从肺部免疫机制到黏膜保护
+### Featured in Science · 2026 年第一作者代表作
 
-张海波博士（Haibo Zhang）以第一作者在 **Science（2026）** 发表黏膜疫苗研究：在小鼠中建立针对多种呼吸道感染及过敏原的广泛保护，并揭示记忆 T 细胞与肺泡巨噬细胞协同作用。她也是 **Nature Communications（2024）** 哮喘加重研究的第一作者，研究 CUL5 如何调节肺泡巨噬细胞抗病毒免疫与中性粒细胞炎症。[Science 论文](https://doi.org/10.1126/science.aea1260) · [Nature Communications 论文](https://doi.org/10.1038/s41467-023-44168-0)
+**[Mucosal vaccination in mice provides protection from diverse respiratory threats](https://doi.org/10.1126/science.aea1260)**<br>
+**张海波博士为第一作者** · Science, 2026 · DOI: 10.1126/science.aea1260
+
+**一个核心问题：能否让肺部免疫系统对多种呼吸道威胁形成持久保护？**
+
+该研究采用鼻内给药的脂质体疫苗配方，在小鼠中实现针对多种呼吸道病毒、细菌及过敏原的保护，持续至少三个月。机制上，疫苗诱导的记忆 T 细胞重塑肺泡巨噬细胞的功能，增强抗原呈递与抗病毒免疫，为广谱黏膜保护提供了实验依据。[论文摘要与作者信息](https://pubmed.ncbi.nlm.nih.gov/41712698/)
+
+#### 新闻报道与专家评价
+
+| 来源 | 报道与评价要点 |
+| :--- | :--- |
+| **Stanford Medicine · 2026-02-19** | 专题报道明确介绍张海波博士为第一作者，将这项小鼠研究描述为向通用疫苗目标迈出的重要一步。[官方报道](https://med.stanford.edu/news/all-news/2026/02/universal-vaccine.html) |
+| **牛津大学 Daniela Ferreira 教授** | 肯定鼻内免疫带来广泛保护的潜力，特别强调研究对 T 细胞重塑肺泡巨噬细胞机制的解释；人体效果与保护时长仍待验证。[专家原文](https://www.sciencemediacentre.org/expert-reaction-to-study-in-mice-on-a-vaccine-for-various-pathogens/) |
+| **伦敦卫生与热带医学院 Brendan Wren 教授** | 认为它可能提供一种有前景的疫苗新思路，同时强调需要对照研究与人体研究。[专家原文](https://www.sciencemediacentre.org/expert-reaction-to-study-in-mice-on-a-vaccine-for-various-pathogens/) |
+
+<sub>以上为来源内容的中文概述。专家评论针对论文与研究策略，不等同于对个人的评价或招生背书；成果目前来自小鼠研究。</sub>
+
+### 更多科研成果 · 肺部免疫与疾病机制
+
+张海波博士也是 **Nature Communications（2024）** 哮喘加重研究的第一作者，研究 CUL5 如何调节肺泡巨噬细胞抗病毒免疫与中性粒细胞炎症。[论文](https://doi.org/10.1038/s41467-023-44168-0)
 
 合作成果还涵盖 **Nature Microbiology** 的细菌性肺炎机制、**Journal of Experimental Medicine** 的过敏性哮喘机制，以及 **Cell Host & Microbe** 的微生物组与疫苗应答研究。[代表论文与来源 →](./research/haibo-zhang.md)
 

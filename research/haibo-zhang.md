@@ -12,6 +12,18 @@
 
 Scholar 档案为 Haibo Zhang，标注 Stanford University 并有 stanford.edu 邮箱验证。[Stanford 官方个人页](https://med.stanford.edu/profiles/haibo-zhang) 当前列为 Postdoctoral Scholar。此为公开档案所列身份，不据此推断招生单位，也未将其写成 Stanford 招生。避免与其他同名研究者混淆。
 
+## Science 2026 · 重点成果与外部评价
+
+[论文](https://doi.org/10.1126/science.aea1260)由 Haibo Zhang 担任第一作者，研究鼻内黏膜免疫如何通过记忆 T 细胞与肺泡巨噬细胞协同，为小鼠提供至少三个月的多种呼吸道威胁保护。该结果尚不等同于人体通用疫苗获证有效。
+
+- **Stanford Medicine，2026-02-19**：[官方专题报道](https://med.stanford.edu/news/all-news/2026/02/universal-vaccine.html)明确标明她为第一作者，并介绍其在广谱疫苗探索中的意义。这是研究机构新闻，不作为独立同行评价。
+- **Science Media Centre，2026-02-19**：[专家评论原文](https://www.sciencemediacentre.org/expert-reaction-to-study-in-mice-on-a-vaccine-for-various-pathogens/)。牛津大学 Daniela Ferreira 强调其机制解释和广泛保护潜力；Liverpool School of Tropical Medicine 的 Jonathan Ball 提醒评估持续免疫激活的安全性；London School of Hygiene & Tropical Medicine 的 Brendan Wren 肯定新思路，同时要求进一步对照及人体研究。以上均为概述，保留评论中的条件和限制。
+- **Stanford Pulendran Lab**：[研究亮点页面](https://med.stanford.edu/pulendranlab/highlights.html)列出张海波博士与 Bali Pulendran 的相关报告，为了解作者如何介绍该研究提供入口；不将其描述为外部奖项或独立评价。
+
+报道与专家评论主要评价研究本身。关于张海波博士个人，本次核实的明确事实是第一作者身份及参与相关学术报告，未据此延伸为未经来源支持的个人声誉判断。
+
+日期口径：Stanford 新闻和 Science Media Centre 记录首次报道为 2026-02-19；PubMed 当前卷期记录为 2026-05-21。主页仅标 2026 年，避免混淆首次报道和卷期日期。
+
 ## 代表成果
 
 | 年份 | 论文与来源 | 作者身份与研究内容 |
