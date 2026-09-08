@@ -1,0 +1,272 @@
+{
+  "papers": [
+    {
+      "year": 2026,
+      "title": "LMO7 Suppresses Tumor-Associated Macrophage Phagocytosis of Tumor Cells Through Degradation of LRP1",
+      "keywords": [
+        "肿瘤 / Cancer",
+        "巨噬细胞",
+        "吞噬 / Phagocytosis",
+        "LMO7",
+        "LRP1"
+      ],
+      "themes": [
+        "肿瘤免疫与分子机制"
+      ]
+    },
+    {
+      "year": 2025,
+      "title": "Research hotspots and frontier analysis of the novel immune checkpoint Nectin-4",
+      "keywords": [
+        "免疫检查点",
+        "Nectin-4"
+      ],
+      "themes": [
+        "肿瘤免疫与分子机制"
+      ]
+    },
+    {
+      "year": 2025,
+      "title": "Trends, frontiers, and clinical trials of TIM-3 in cancer research: a bibliometric analysis",
+      "keywords": [
+        "文献计量 / Bibliometrics",
+        "肿瘤 / Cancer",
+        "免疫检查点",
+        "TIM-3",
+        "临床试验"
+      ],
+      "themes": [
+        "肿瘤免疫与分子机制"
+      ]
+    },
+    {
+      "year": 2024,
+      "title": "Recombinant human adenovirus type 5 promotes anti-tumor immunity via inducing pyroptosis in tumor endothelial cells",
+      "keywords": [
+        "肿瘤 / Cancer",
+        "焦亡 / Pyroptosis",
+        "腺病毒",
+        "肿瘤内皮细胞"
+      ],
+      "themes": [
+        "肿瘤免疫与分子机制"
+      ]
+    },
+    {
+      "year": 2024,
+      "title": "Global research and scientific publications on intravenous anesthesia between 1930 and 2022: A bibliometric analysis",
+      "keywords": [
+        "文献计量 / Bibliometrics",
+        "静脉麻醉"
+      ],
+      "themes": [
+        "麻醉与PND"
+      ]
+    },
+    {
+      "year": 2024,
+      "title": "Global research and scientific publications on PND between 1969 and 2022: A bibliometric analysis",
+      "keywords": [
+        "文献计量 / Bibliometrics",
+        "PND"
+      ],
+      "themes": [
+        "麻醉与PND"
+      ]
+    },
+    {
+      "year": 2024,
+      "title": "Comparative efficacy of six programmed cell death protein-1 inhibitors in first-line treatment for advanced non-small cell lung cancer: A retrospective cohort study",
+      "keywords": [
+        "肿瘤 / Cancer",
+        "肺癌 / Lung cancer",
+        "免疫检查点",
+        "PD-1",
+        "回顾性队列"
+      ],
+      "themes": [
+        "肺癌与临床/因果研究"
+      ]
+    },
+    {
+      "year": 2024,
+      "title": "Causal effects between personality and psychiatric traits and lung cancer: a bidirectional two-sample Mendelian randomization and bibliometric study",
+      "keywords": [
+        "文献计量 / Bibliometrics",
+        "肿瘤 / Cancer",
+        "肺癌 / Lung cancer",
+        "孟德尔随机化",
+        "人格与精神特征"
+      ],
+      "themes": [
+        "肺癌与临床/因果研究"
+      ]
+    },
+    {
+      "year": 2022,
+      "title": "Evolutions in the management of non-small cell lung cancer: A bibliometric study from the 100 most impactful articles in the field",
+      "keywords": [
+        "文献计量 / Bibliometrics",
+        "肿瘤 / Cancer",
+        "肺癌 / Lung cancer"
+      ],
+      "themes": [
+        "肺癌与临床/因果研究"
+      ]
+    },
+    {
+      "year": 2020,
+      "title": "基本公共卫生服务研究热点及前沿分析",
+      "keywords": [
+        "公共卫生服务"
+      ],
+      "themes": [
+        "公共卫生与社会医学"
+      ]
+    },
+    {
+      "year": 2019,
+      "title": "大学生对“互联网+医疗”认知利用及满意度调查与分析",
+      "keywords": [
+        "互联网医疗"
+      ],
+      "themes": [
+        "公共卫生与社会医学"
+      ]
+    },
+    {
+      "year": 2022,
+      "title": "预防脱毒人员复吸的综合干预模式及趋势研究：基于CiteSpace的文献计量分析",
+      "keywords": [
+        "文献计量 / Bibliometrics",
+        "CiteSpace",
+        "戒毒与复吸"
+      ],
+      "themes": [
+        "公共卫生与社会医学"
+      ]
+    },
+    {
+      "year": 2023,
+      "title": "基于CiteSpace的戒毒人员戒毒效果心理社会因素热点分析",
+      "keywords": [
+        "CiteSpace",
+        "戒毒与复吸",
+        "心理社会因素"
+      ],
+      "themes": [
+        "公共卫生与社会医学"
+      ]
+    },
+    {
+      "year": 2023,
+      "title": "社会医学教学方法及发展趋势探析——基于CiteSpace的文献计量分析",
+      "keywords": [
+        "文献计量 / Bibliometrics",
+        "CiteSpace",
+        "社会医学教学"
+      ],
+      "themes": [
+        "公共卫生与社会医学"
+      ]
+    },
+    {
+      "year": 2026,
+      "title": "Dehydrocostus Lactone Suppresses Hepatocellular Carcinoma by Inhibiting Protein Tyrosine Kinase-7 Mediated β-Catenin Signaling",
+      "keywords": [
+        "肿瘤 / Cancer",
+        "肝细胞癌",
+        "PTK7",
+        "β-Catenin",
+        "Dehydrocostus lactone"
+      ],
+      "themes": [
+        "肿瘤免疫与分子机制"
+      ]
+    }
+  ],
+  "keyword_document_frequency": {
+    "肿瘤 / Cancer": 7,
+    "巨噬细胞": 1,
+    "吞噬 / Phagocytosis": 1,
+    "LMO7": 1,
+    "LRP1": 1,
+    "免疫检查点": 3,
+    "Nectin-4": 1,
+    "文献计量 / Bibliometrics": 7,
+    "TIM-3": 1,
+    "临床试验": 1,
+    "焦亡 / Pyroptosis": 1,
+    "腺病毒": 1,
+    "肿瘤内皮细胞": 1,
+    "静脉麻醉": 1,
+    "PND": 1,
+    "肺癌 / Lung cancer": 3,
+    "PD-1": 1,
+    "回顾性队列": 1,
+    "孟德尔随机化": 1,
+    "人格与精神特征": 1,
+    "公共卫生服务": 1,
+    "互联网医疗": 1,
+    "CiteSpace": 3,
+    "戒毒与复吸": 2,
+    "心理社会因素": 1,
+    "社会医学教学": 1,
+    "肝细胞癌": 1,
+    "PTK7": 1,
+    "β-Catenin": 1,
+    "Dehydrocostus lactone": 1
+  },
+  "theme_counts": {
+    "公共卫生与社会医学": [
+      1,
+      1,
+      0,
+      1,
+      2,
+      0,
+      0,
+      0
+    ],
+    "麻醉与PND": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      0,
+      0
+    ],
+    "肺癌与临床/因果研究": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      2,
+      0,
+      0
+    ],
+    "肿瘤免疫与分子机制": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      2,
+      2
+    ]
+  },
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ]
+}

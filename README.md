@@ -72,6 +72,18 @@ I explore the intersection of biological questions, computational analysis, and 
 | Tumor immunology | Omics analysis | AI-assisted literature reading |
 | Biological mechanisms | Pathway interpretation | Reusable scientific workflows |
 
+## Research landscape · 研究主题概览
+
+基于已提供的 **15 篇中英文论文标题（2019–2026）**，包括会议摘要和读者来信。
+
+![中英文论文标题关键词词云](./assets/research-wordcloud.png)
+
+![研究主题的年度分布与演化](./assets/research-evolution.png)
+
+标题所呈现的主题从公共卫生与社会医学，扩展至肺癌临床及文献计量研究，再到肿瘤免疫与分子机制。圆点为各主题当年的论文数，连线不代表连续产出或因果关系。
+
+[提取方法与年份口径](./research/README.md) · [逐篇标题、关键词及主题数据](./research/publication-topics.json) · [绘图脚本](./scripts/build_research_visuals.py)
+
 ## Publications · 近期论文
 
 Author lists below are abbreviated; **Yu Qiao** is highlighted. Conference abstracts and letters are identified separately.
