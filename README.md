@@ -69,7 +69,7 @@ I explore the intersection of biological questions, computational analysis, and 
 
 | 年份 | 学术服务 / 荣誉 | 补充信息 |
 | :--- | :--- | :--- |
-| 2025 | **Life Conflux 期刊编委** | Editorial Board Member |
+| 2025 | [**Life Conflux 期刊编委**](https://www.lifeconflux.com/) | Editorial Board Member |
 | 2024 | **Wiley China Excellent Author Program** | April–June 2024；通讯单位：上海交通大学闵行校区 |
 
 ## Research & building
