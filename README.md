@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Yu Qiao — Tumor Immunology, Bioinformatics and Scientific AI" />
+  <img src="./assets/header-neon-v2.svg" width="100%" alt="Yu Qiao — Tumor Immunology, Bioinformatics and Scientific AI" />
 </p>
 
 <p align="center">
