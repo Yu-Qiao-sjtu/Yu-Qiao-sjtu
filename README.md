@@ -13,6 +13,14 @@
 
 [**Wisp Science**](https://github.com/xuzhougeng/wisp-science) 由 **[徐洲更（Zhougeng Xu）](https://xuzhougeng.top/)** 开发，获得 **重庆医科大学附属第一医院[郭世朋教授](https://github.com/Shipeng-Guo)** 的支持，**[余光创教授](https://github.com/guangchuangyu)** 提供专业的论文指导意见。
 
+**学术指导 · 余光创教授（Guangchuang Yu）**
+
+余光创教授是**南方医科大学教授、博士生导师**，长期从事生物信息学方法与开源工具开发，研究覆盖组学数据解释、系统发育与科学可视化。[学校介绍](https://www.smu.edu.cn/info/1251/20909.htm)
+
+他及其团队开发的代表性工具包括 **clusterProfiler**（功能富集与组学解释）、**ggtree / treeio**（系统发育树可视化与数据整合）、**ChIPseeker**（ChIP-seq 峰注释）和 **enrichplot**（富集结果可视化）。这些工具为研究者从基因列表、调控区域和进化关系中提取生物学意义提供了可复用的方法。[YuLab 开源工具](https://github.com/YuLab-SMU) · [个人软件主页](https://guangchuangyu.github.io/software/)
+
+代表方法论文包括 *The Innovation* 的 [clusterProfiler 4.0（2021）](https://pmc.ncbi.nlm.nih.gov/articles/PMC8454663/) 和 *Nature Protocols* 的 [Using clusterProfiler to characterize multiomics data（2024）](https://www.nature.com/articles/s41596-024-01020-z)。
+
 我参与项目的文档维护、Issue 反馈与 PR 贡献。
 
 **新媒体矩阵 · 微信公众号：果子学生信、洲更的第二大脑**
