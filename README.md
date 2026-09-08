@@ -10,6 +10,8 @@
 
 ## Wisp Science · Documentation & community
 
+[**Wisp Science**](https://github.com/xuzhougeng/wisp-science) 由 **[徐洲更（Zhougeng Xu）](https://xuzhougeng.top/)** 开发。我参与项目的文档维护、Issue 反馈与 PR 贡献。
+
 **[Wisp Science wolai 文档主要维护者](https://www.wolai.com/fUUMG9SHad3D8ugM4FMoy3)**  
 Primary maintainer of the Wisp Science documentation on wolai.
 
