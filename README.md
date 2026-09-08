@@ -20,7 +20,18 @@
 **[Wisp Science wolai 文档主要维护者](https://www.wolai.com/fUUMG9SHad3D8ugM4FMoy3)**<br>
 Primary maintainer of the Wisp Science documentation on wolai.
 
-**项目 Issue 提交数量排名第一 · 104 个 Issues**<br>
+**项目 Issue 提交榜 · TOP 3**
+
+**我的 Issue 提交数：104 · 排名第 1**
+
+| 排名 | 贡献者 | Issue 提交数 |
+| :---: | :--- | ---: |
+| **1** | **[Yu-Qiao-sjtu](https://github.com/xuzhougeng/wisp-science/issues?q=is%3Aissue%20author%3AYu-Qiao-sjtu)** | **104** |
+| 2 | [xuzhougeng](https://github.com/xuzhougeng/wisp-science/issues?q=is%3Aissue%20author%3Axuzhougeng) | 31 |
+| 3 | [jarxunlai](https://github.com/xuzhougeng/wisp-science/issues?q=is%3Aissue%20author%3Ajarxunlai) | 14 |
+
+[统计快照与口径](./research/wisp-issue-ranking.json)
+<br>
 截至 2026-09-09，按公开仓库创建的 Issue 总数统计，包含已关闭 Issue，不包含 Pull Requests；此为 Issue 提交数量排名。
 
 **5 个上游 PR · 全部已合并 · 2 个版本发布说明明确署名**
