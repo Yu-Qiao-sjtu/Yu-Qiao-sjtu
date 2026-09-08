@@ -79,6 +79,15 @@ I explore the intersection of biological questions, computational analysis, and 
 | Tumor immunology | Omics analysis | AI-assisted literature reading |
 | Biological mechanisms | Pathway interpretation | Reusable scientific workflows |
 
+## Experimental & computational skills · 实验与计算技能
+
+| 领域 | 技能 |
+| :--- | :--- |
+| 蛋白实验 | 真核及原核蛋白表达与纯化、SDS-PAGE、Western blot |
+| 动物模型 | 小鼠皮下瘤、肺纤维化、哮喘及急性肺损伤模型；气管给药、肺组织取材 |
+| 细胞实验 | 细胞培养 |
+| 组学数据分析 | 转录组上游分析及下游可视化；单细胞测序下游可视化分析 |
+
 ## Research landscape · 研究主题概览
 
 基于已提供的 **15 篇中英文论文标题（2019–2026）**，包括会议摘要和读者来信。
