@@ -62,7 +62,7 @@ Primary maintainer of the Wisp Science documentation on wolai.
 | **牛津大学 Daniela Ferreira 教授** | 肯定鼻内免疫带来广泛保护的潜力，特别强调研究对 T 细胞重塑肺泡巨噬细胞机制的解释；人体效果与保护时长仍待验证。[专家原文](https://www.sciencemediacentre.org/expert-reaction-to-study-in-mice-on-a-vaccine-for-various-pathogens/) |
 | **伦敦卫生与热带医学院 Brendan Wren 教授** | 认为它可能提供一种有前景的疫苗新思路，同时强调需要对照研究与人体研究。[专家原文](https://www.sciencemediacentre.org/expert-reaction-to-study-in-mice-on-a-vaccine-for-various-pathogens/) |
 
-<sub>以上为来源内容的中文概述。专家评论针对论文与研究策略，不等同于对个人的评价或招生背书；成果目前来自小鼠研究。</sub>
+<sub>以上为新闻报道与专家评论的中文概述，原文见链接。研究成果基于小鼠模型。</sub>
 
 ### 更多科研成果 · 肺部免疫与疾病机制
 
@@ -77,7 +77,7 @@ Primary maintainer of the Wisp Science documentation on wolai.
 | **近三年 · 2024–2026** | 从病毒诱发哮喘加重中的肺泡巨噬细胞抗病毒免疫，延伸至肺纤维化、微生物组与疫苗应答，以及肺部黏膜免疫的广泛保护。 |
 | **近五年 · 2022–2026** | 以肺部免疫调控为主线，连接 E3 泛素连接酶、巨噬细胞功能、过敏性炎症及宿主–病原体互作；逐步拓展至组织重塑与系统免疫学。 |
 
-生物信息学与上述问题的结合点包括：转录组发现候选调控因子、多组学解析免疫应答，以及将数据中的信号与疾病模型中的机制验证相连接。这些方法见于相关团队论文，不代表每项分析均由她个人独立完成。
+生物信息学与上述问题的结合点包括：转录组发现候选调控因子、多组学解析免疫应答，以及将数据中的信号与疾病模型中的机制验证相连接。
 
 [**查看 Google Scholar 论文列表 →**](https://scholar.google.com/citations?hl=en&user=THSReNEAAAAJ&view_op=list_works&sortby=pubdate) · [**阅读研究方向与代表成果 →**](./research/haibo-zhang.md)
 
