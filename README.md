@@ -362,12 +362,13 @@ Research interests: Cancer; inflammatory respiratory diseases; macrophages and n
 
 ## GitHub activity
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yu-Qiao-sjtu&amp;theme=tokyonight" width="100%" alt="GitHub public activity overview" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yu-Qiao-sjtu&amp;theme=tokyonight" width="49%" alt="Public repositories by language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yu-Qiao-sjtu&amp;theme=tokyonight" width="49%" alt="GitHub statistics" />
-</p>
+| 2026 activity snapshot | Count |
+| :--- | ---: |
+| [GitHub contribution calendar](https://github.com/Yu-Qiao-sjtu) | **477 contributions** |
+| [Public repositories](https://github.com/Yu-Qiao-sjtu?tab=repositories) | **20** |
+| [Wisp Science issues submitted](https://github.com/xuzhougeng/wisp-science/issues?q=is%3Aissue%20author%3AYu-Qiao-sjtu) | **113** |
+| [Merged Wisp Science pull requests](https://github.com/xuzhougeng/wisp-science/pulls?q=is%3Apr%20author%3AYu-Qiao-sjtu%20is%3Amerged) | **9** |
+
+<sub>Snapshot checked on 2026-09-15 from GitHub's API. The contribution count covers the 2026 calendar year through the check date.</sub>
 
 <p align="center"><sub>Curious about biology. Thoughtful about evidence. Always building.</sub></p>
