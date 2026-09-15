@@ -82,7 +82,7 @@ Primary maintainer of the Wisp Science documentation on wolai.
 
 ## Research opportunity · 张海波博士课题组招生
 
-**生物信息学 × 呼吸系统疾病｜上海交通大学药学院｜硕士 / 博士**
+**黏膜免疫｜上海交通大学药学院｜硕士 / 博士**
 
 **斯坦福大学博士后 · 上海交通大学药学院博士、硕士 · 山东大学本科**
 
@@ -100,7 +100,7 @@ Primary maintainer of the Wisp Science documentation on wolai.
 
 </details>
 
-欢迎对呼吸系统疾病、免疫机制与生物信息学交叉研究有兴趣的同学关注张海波博士课题组，交流硕士、博士报考意向。
+欢迎对黏膜免疫研究有兴趣的同学关注张海波博士课题组，交流硕士、博士报考意向。
 
 **上海市优秀毕业生 · 博士研究生国家奖学金**。交大[优秀毕业生专题](https://mp.weixin.qq.com/s/wBcWf_ehG8bry3WuQdz6lA)记录其科研成长：博士期间 **11 篇 SCI、第一及共同第一作者 7 篇**（2023 年报道统计）。
 
@@ -169,7 +169,7 @@ Primary maintainer of the Wisp Science documentation on wolai.
 
 [**查看 Google Scholar 论文列表 →**](https://scholar.google.com/citations?hl=en&user=THSReNEAAAAJ&view_op=list_works&sortby=pubdate) · [**阅读研究方向与代表成果 →**](./research/haibo-zhang.md)
 
-<sub>招生信息由主页维护者提供，更新于 2026-09-09；招生单位为上海交通大学药学院，面向硕士、博士。具体招生资格、名额、申请时间与流程以学校和课题组正式通知为准。研究方向按自然年归纳，2026 年截至更新日。</sub>
+<sub>招生信息由主页维护者提供，更新于 2026-09-15；招生单位为上海交通大学药学院，研究方向为黏膜免疫，面向硕士、博士。具体招生资格、名额、申请时间与流程以学校和课题组正式通知为准。研究方向按自然年归纳，2026 年截至更新日。</sub>
 
 ## Biology × Omics × Scientific AI
 
