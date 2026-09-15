@@ -41,36 +41,40 @@ Primary maintainer of the Wisp Science documentation on wolai.
 
 **项目 Issue 提交榜 · TOP 3**
 
-**我的 Issue 提交数：104 · 排名第 1**
+**我的 Issue 提交数：113 · 排名第 1**
 
 | 排名 | 贡献者 | Issue 提交数 |
 | :---: | :--- | ---: |
-| **1** | **[Yu-Qiao-sjtu](https://github.com/xuzhougeng/wisp-science/issues?q=is%3Aissue%20author%3AYu-Qiao-sjtu)** | **104** |
-| 2 | [xuzhougeng](https://github.com/xuzhougeng/wisp-science/issues?q=is%3Aissue%20author%3Axuzhougeng) | 31 |
-| 3 | [jarxunlai](https://github.com/xuzhougeng/wisp-science/issues?q=is%3Aissue%20author%3Ajarxunlai) | 14 |
+| **1** | **[Yu-Qiao-sjtu](https://github.com/xuzhougeng/wisp-science/issues?q=is%3Aissue%20author%3AYu-Qiao-sjtu)** | **113** |
+| 2 | [xuzhougeng](https://github.com/xuzhougeng/wisp-science/issues?q=is%3Aissue%20author%3Axuzhougeng) | 37 |
+| 3 | [jarxunlai](https://github.com/xuzhougeng/wisp-science/issues?q=is%3Aissue%20author%3Ajarxunlai) | 15 |
 
 [统计快照与口径](./research/wisp-issue-ranking.json)
 <br>
-截至 2026-09-09，按公开仓库创建的 Issue 总数统计，包含已关闭 Issue，不包含 Pull Requests；此为 Issue 提交数量排名。
+截至 2026-09-15，按公开仓库创建的 Issue 总数统计，包含已关闭 Issue，不包含 Pull Requests；此为 Issue 提交数量排名。
 
-**5 个上游 PR · 全部已合并 · 2 个版本发布说明明确署名**
+**9 个上游 PR · 全部已合并 · 3 个版本发布说明明确署名**
 
-我的 PR 贡献覆盖 **实验数据接入、技能检索、模型选择、工作流易用性与运行环境感知设计**，把科研使用中遇到的问题转化为具体功能改进和设计方案。
+我的 PR 贡献覆盖 **实验数据接入、文献审计、结果组织、历史导航、表格预览、技能检索、模型选择与运行环境感知设计**，把科研使用中遇到的问题转化为具体功能改进和设计方案。
 
 <details>
-<summary><strong>展开 5 个 PR 的中文贡献说明与 2 个版本署名</strong></summary>
+<summary><strong>展开 9 个 PR 的中文贡献说明与 3 个版本署名</strong></summary>
 
 | 已合并 PR | 中文简述与实际价值 |
 | :--- | :--- |
+| [**#1205 · 生成结果目录树**](https://github.com/xuzhougeng/wisp-science/pull/1205) | 将回复中生成的文件以可折叠目录树集中展示，改善多文件科研任务的结果浏览与定位。 |
+| [**#1202 · 文献获取与审计导出**](https://github.com/xuzhougeng/wisp-science/pull/1202) | 增加 PDF 获取回退、Mermaid 图示和已确认论文审计导出，提升文献研究流程的可用性与可追溯性。 |
+| [**#1201 · 对话历史导航修复**](https://github.com/xuzhougeng/wisp-science/pull/1201) | 修复历史消息导航与较早消息分页，使长对话中的科研过程更容易回看。 |
+| [**#1198 · XLSX 外部引用预览修复**](https://github.com/xuzhougeng/wisp-science/pull/1198) | 修复含外部工作簿引用的 Excel 模板预览，减少复杂科研表格无法打开的问题。 |
 | [**#965 · DNA 文件导入与序列交互**](https://github.com/xuzhougeng/wisp-science/pull/965) | 支持本地 SnapGene、FASTA、GenBank 等文件导入，保留环状结构与注释；将选中片段的序列、坐标、链方向和长度传给聊天助手，衔接质粒查看与 AI 分析。 |
 | [**#959 · 中英文技能搜索改进**](https://github.com/xuzhougeng/wisp-science/pull/959) | 改善连续中文、不同分隔符和跨语言查询下的技能检索，减少“技能已启用却找不到”的问题。 |
 | [**#795 · 运行环境感知设计提案**](https://github.com/xuzhougeng/wisp-science/pull/795) | 提出让 Agent 感知已加载数据对象、查询科学计算库接口、了解长任务进度的设计，为减少重复操作与接口猜测提供方案。此项为已合并的设计文档。 |
 | [**#721 · 模型发现与工作流绑定**](https://github.com/xuzhougeng/wisp-science/pull/721) | 增加模型搜索工具和工作流模型绑定参数，让 Agent 能按任务所需能力查找并选择模型，例如为图片理解任务选择支持视觉的模型。 |
 | [**#720 · 工作流预算与输出说明**](https://github.com/xuzhougeng/wisp-science/pull/720) | 补充中英文预算提示、输入占位说明和输出格式说明，让用户理解留空预算的含义，更清楚地配置工作流。 |
 
-发布说明中的贡献署名：**[v1.7.0 · Trace & Trust](https://github.com/xuzhougeng/wisp-science/releases/tag/v1.7.0)**（#959、#965）和 **[v1.2.0 · Exploration](https://github.com/xuzhougeng/wisp-science/releases/tag/v1.2.0)**（#795）。
+发布说明中的贡献署名：**[v1.12.0 · Skill Marketplace](https://github.com/xuzhougeng/wisp-science/releases/tag/v1.12.0)**（#1198、#1201、#1205）、**[v1.7.0 · Trace & Trust](https://github.com/xuzhougeng/wisp-science/releases/tag/v1.7.0)**（#959、#965）和 **[v1.2.0 · Exploration](https://github.com/xuzhougeng/wisp-science/releases/tag/v1.2.0)**（#795）。
 
-<sub>统计截至 2026-09-09，仅计 xuzhougeng/wisp-science 上游仓库；版本数按 GitHub Release 正文明确出现 @Yu-Qiao-sjtu 的不同版本去重，不代表代码仅用于这些版本。</sub>
+<sub>统计截至 2026-09-15，仅计 xuzhougeng/wisp-science 上游仓库；版本数按 GitHub Release 正文明确出现 @Yu-Qiao-sjtu 的不同版本去重，不代表代码仅用于这些版本。</sub>
 
 </details>
 
@@ -208,7 +212,7 @@ My work connects **experimental biology, transcriptomics, and AI-assisted resear
 
 作为 **Wisp Science wolai 文档主要维护者**，我把使用过程中的问题整理为文档、Issue 和 PR，参与科研 Agent 的功能改进。
 
-可查看的贡献包括：[本地 DNA 导入与序列选择集成 #965](https://github.com/xuzhougeng/wisp-science/pull/965)、[多语言技能搜索 #959](https://github.com/xuzhougeng/wisp-science/pull/959)，以及[工作流预算与 schema 提示 #720](https://github.com/xuzhougeng/wisp-science/pull/720)。
+可查看的贡献包括：[文献获取与审计导出 #1202](https://github.com/xuzhougeng/wisp-science/pull/1202)、[生成结果目录树 #1205](https://github.com/xuzhougeng/wisp-science/pull/1205)、[本地 DNA 导入与序列选择集成 #965](https://github.com/xuzhougeng/wisp-science/pull/965)，以及[多语言技能搜索 #959](https://github.com/xuzhougeng/wisp-science/pull/959)。
 
 [**阅读使用文档 →**](https://www.wolai.com/fUUMG9SHad3D8ugM4FMoy3) · [科研技能集合](https://github.com/Yu-Qiao-sjtu/Wisp_skills) · [Pro. Paper 文献阅读工具](https://github.com/Yu-Qiao-sjtu/Pro.-Paper)
 

@@ -1,20 +1,20 @@
 {
-  "checked_at": "2026-09-09",
+  "checked_at": "2026-09-15",
   "repository": "xuzhougeng/wisp-science",
   "scope": "All open and closed issues; pull requests excluded; all author accounts included",
-  "total_issues": 372,
+  "total_issues": 401,
   "top3": [
     {
       "login": "Yu-Qiao-sjtu",
-      "issues": 104
+      "issues": 113
     },
     {
       "login": "xuzhougeng",
-      "issues": 31
+      "issues": 37
     },
     {
       "login": "jarxunlai",
-      "issues": 14
+      "issues": 15
     }
   ]
 }
